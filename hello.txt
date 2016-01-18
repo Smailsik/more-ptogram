@@ -1,2 +1,9 @@
-print("Hello world")
-print("I have a good day")
+<html>
+<head>
+	<title> computer</tetle>
+</head>
+<body>
+
+
+</body>
+</html>
